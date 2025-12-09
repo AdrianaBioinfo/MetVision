@@ -55,8 +55,8 @@ Install Miniconda :  https://docs.conda.io/en/latest/miniconda.html#windows-inst
 Once Miniconda is installed, create the envrionment and load it :
 
 ```SHELL
-conda env create -f env_perceval_1.yml
-conda activate perceval_1
+conda env create -f env_MetVision.yml
+conda activate metvision
 ```
 If you want to deactivate the environment, use the command :
 
