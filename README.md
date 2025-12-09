@@ -1,7 +1,7 @@
-# 🌈Perceval 
+# 🌈Met-Vision 
 
-This project was carried out as part of the "Met-Vision reveals a metabolic mosaic of tissue macrophage 
-reshuffled by inflammation" paper. 
+This project was carried out as part of the "Met-Vision stratifies single cell metabolism revealing coexisting energetic states in tissue macrophages 
+redistributed by inflammation" paper. 
 
 These scripts allow you to extract, interpret and classify functional metabolic information from live-cell imaging data with single-cell resolution. 
 In the [macro folder](https://github.com/AdrianaBioinfo/perceval/tree/main/macro) you will find the macro for displaying the single-cell view and the individual cell crops.
