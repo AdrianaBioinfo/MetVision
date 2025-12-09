@@ -1,4 +1,4 @@
-name: perceval_1
+name: metvision
 channels:
   - defaults
   - conda-forge
