@@ -6,7 +6,7 @@ redistributed by inflammation" paper.
 This repository allows you to extract, interpret and classify functional metabolic information from live-cell imaging data with single-cell resolution. 
 It is composed of two parts : the Fiji macro and the Python scirpt.
 
-In the [macro folder](https://github.com/AdrianaBioinfo/perceval/tree/main/macro) you will find the macro for displaying the single-cell view and the individual cell crops.
+In the [macro folder](https://github.com/AdrianaBioinfo/MetVision/tree/main/macro) you will find the macro for displaying the single-cell view and the individual cell crops.
 Individual crops are used as input to the python pipeline.
 
 The outputs of the pipeline are :
@@ -23,7 +23,7 @@ Link to Fast4DReg tutorial : https://imagej.net/plugins/fast4dreg
 
 ## :one: Visualization of single cell metabolic dynamics
 
-Our custom macro is in the In the [macro folder](https://github.com/AdrianaBioinfo/perceval/tree/main/macro).
+Our custom macro is in the In the [macro folder](https://github.com/AdrianaBioinfo/MetVision/tree/main/macro).
 Run the macro. You will have to enter the following information: 
 - markers sorted by channels (ATP & ADP without space): ATPADP, F480, MHCII
 - check "yes" for saving crops if you want to run the python pipeline
@@ -48,7 +48,7 @@ git clone https://github.com/AdrianaBioinfo/MetVision.git
 Move to the new directory:
 
 ```SHELL
-cd perceval/src/
+cd MetVision/src/
 ```
 
 Install Miniconda :  https://docs.conda.io/en/latest/miniconda.html#windows-installers.
